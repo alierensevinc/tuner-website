@@ -32,3 +32,10 @@ By using OpenTune, you agree to our Terms and Conditions and Privacy Policy.
 
 - [Terms & Conditions](./terms-and-conditions.html)
 - [Privacy Policy](./privacy-policy.html)
+
+## 📞 Support & Contact
+Need help with tuning or have feedback for OpenTune?
+
+For any questions, support requests, or bug reports, please contact us directly via email. We aim to respond to all inquiries within 24 hours.
+
+📧 Email: sevinc.aeren@gmail.com
